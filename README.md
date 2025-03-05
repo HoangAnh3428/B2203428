@@ -14,8 +14,7 @@ Xử lý đơn hàng, bao gồm thông tin khách hàng và các sách đã mua.
 Theo dõi doanh thu, tồn kho và các báo cáo liên quan.
 # 🛠️ Công Nghệ Sử Dụng
 Frontend: HTML, CSS, JavaScript (React.js)
-Backend: Node.js, Express.js
-Database: MongoDB
+Backend: NMySQL, PHP
 Version Control: Git, GitHub
 # 📦 Cài Đặt
 1. Clone Repository
@@ -45,15 +44,13 @@ Dự án này được thiết kế với giao diện người dùng dễ sử d
 
 
 # 👥 Thành Viên Nhóm
-Tên	Vai Trò	Công Việc Chính
-Nguyễn Văn A	Quản lý Dự Án	Xây dựng backend, API
-Trần Thị B	Phát Triển Frontend	Thiết kế giao diện, frontend
-Lê Minh C	Tester	Kiểm thử hệ thống, báo lỗi
-Phan Thị D	Hỗ Trợ Tài Liệu	Viết tài liệu, hướng dẫn sử dụng
+Nguyễn Thuy Hoang Anh	
+Duong Thao Vy
+Ngo Ke Nhu Quynh
 # ⚡ Các Tính Năng Sắp Ra Mắt
 Thanh toán online: Tích hợp cổng thanh toán trực tuyến.
 Chức năng giảm giá: Áp dụng mã giảm giá cho các đơn hàng.
 
 # 📧 Liên Hệ
-Email: contact@example.com
-Website: www.example.com
+Email: anhb2203428@student.ctu.edu.vn
+Hotline: 0783759034
