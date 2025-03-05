@@ -21,7 +21,7 @@ Version Control: Git, GitHub
 1. Clone Repository
 bash
 Copy
-git clone https://github.com/username/quanlybansach.git
+git clone https://github.com/HoangAnh3428/B2203428q.git
 2. Cài Đặt Các Gói Phụ Thuộc
 Vào thư mục dự án và cài đặt các gói phụ thuộc:
 
