@@ -9,13 +9,13 @@ Dự án nhóm "Quản lý Bán Sách" là một hệ thống đơn giản giúp
 # 📝 Mô Tả
 Quản lý Bán Sách là hệ thống được thiết kế để hỗ trợ các cửa hàng sách trong việc:
 
-Quản lý thông tin sách (tên, tác giả, thể loại, số lượng, giá bán).
-Xử lý đơn hàng, bao gồm thông tin khách hàng và các sách đã mua.
-Theo dõi doanh thu, tồn kho và các báo cáo liên quan.
+Quản lý thông tin sách (tên, tác giả, thể loại, số lượng, giá bán).<br>
+Xử lý đơn hàng, bao gồm thông tin khách hàng và các sách đã mua.<br>
+Theo dõi doanh thu, tồn kho và các báo cáo liên quan.<br>
 # 🛠️ Công Nghệ Sử Dụng
-Frontend: HTML, CSS, JavaScript (React.js)
-Backend: NMySQL, PHP
-Version Control: Git, GitHub
+Frontend: HTML, CSS, JavaScript (React.js)<br>
+Backend: NMySQL, PHP<br>
+Version Control: Git, GitHub<br>
 # 📦 Cài Đặt
 1. Clone Repository
 bash
@@ -35,22 +35,22 @@ bash
 Copy
 npm start
 💡 Tính Năng
-Quản lý sách: Thêm, sửa, xóa sách, tìm kiếm theo tên hoặc thể loại.
-Quản lý đơn hàng: Tạo, xem và cập nhật trạng thái đơn hàng.
-Báo cáo: Xem báo cáo doanh thu theo tháng, quý, năm.
-Quản lý khách hàng: Lưu trữ thông tin khách hàng, lịch sử mua hàng.
+Quản lý sách: Thêm, sửa, xóa sách, tìm kiếm theo tên hoặc thể loại.<br>
+Quản lý đơn hàng: Tạo, xem và cập nhật trạng thái đơn hàng.<br>
+Báo cáo: Xem báo cáo doanh thu theo tháng, quý, năm.<br>
+Quản lý khách hàng: Lưu trữ thông tin khách hàng, lịch sử mua hàng.<br>
 # 🎨 Giao Diện
-Dự án này được thiết kế với giao diện người dùng dễ sử dụng và trực quan. Các bảng điều khiển được sắp xếp hợp lý, giúp người quản lý dễ dàng thao tác.
+Dự án này được thiết kế với giao diện người dùng dễ sử dụng và trực quan.<br> Các bảng điều khiển được sắp xếp hợp lý, giúp người quản lý dễ dàng thao tác.
 
 
 # 👥 Thành Viên Nhóm
-Nguyễn Thuy Hoang Anh	
-Duong Thao Vy
-Ngo Ke Nhu Quynh
+Nguyễn Thuy Hoang Anh	<br>
+Duong Thao Vy<br>
+Ngo Ke Nhu Quynh<br>
 # ⚡ Các Tính Năng Sắp Ra Mắt
-Thanh toán online: Tích hợp cổng thanh toán trực tuyến.
+Thanh toán online: Tích hợp cổng thanh toán trực tuyến.<br>
 Chức năng giảm giá: Áp dụng mã giảm giá cho các đơn hàng.
 
 # 📧 Liên Hệ
-Email: anhb2203428@student.ctu.edu.vn
+Email: anhb2203428@student.ctu.edu.vn<br>
 Hotline: 0783759034
